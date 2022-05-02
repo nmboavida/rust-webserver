@@ -1,1 +1,4 @@
 /target/*
+target/rls/debug/deps/save-analysis/*
+target/rls/debug/deps/save-analysis/webserver-5f123162d50779cb.json
+target/rls/debug/deps/save-analysis/webserver-8e4fcce654834b81.json
